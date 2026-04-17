@@ -1,23 +1,31 @@
-<!-- ✦ ssitaqueen GitHub Profile ✦ -->
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ssitaqueen.ssitaqueen)
 
-<h1 align="center">
-  ✦ 안녕하세요, 윤선재 (wade) 입니다! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ✦
-</h1>
 
-<p align="center">데이터로 세상을 더 분석적으로 이해하려는 중이에요</p>
+<h2 align="center">안녕하세요, 윤선재입니다 🧠</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-brightgreen?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  뇌과학과 헬스케어 사이 어딘가에서 데이터를 읽고 있어요<br>
+  <b>심리학 · 인지과학 · 신경과학 · 헬스케어</b>
 </p>
 
 ---
 
-- 📊 데이터를 보면서 이야기를 찾아내고 있어요
-- 🧬 건강 지표와 스트레스 신호를 탐구 중이에요
-- 🌱 요즘은 딥러닝을 조금씩 배우고 있습니다
+- 🧬 건강 지표와 스트레스 신호를 데이터로 탐구해요
+- 🧪 웨어러블 생체 신호 · 이상 탐지에 관심이 많아요
+- 🎓 심리학 & 뇌과학 학습 · GPA 4.01
+- 🌱 요즘은 딥러닝과 시계열 분석을 공부 중이에요
+- 📍 Seoul/Daejeon, Korea
+
+---
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,jupyter,github)](https://skillicons.dev)
+---
+
+### 주요 프로젝트
+
+| 프로젝트 | 설명 |
+|--------|------|
+| 📊 [health-indicators-and-smoking](https://github.com/ssitaqueen/health-indicators-and-smoking) | 흡연 행동과 건강 지표 간 연관성 분석 |
+| 💓 [WESAD_stress_detection](https://github.com/ssitaqueen/WESAD_stress_detection) | 생체 신호 기반 스트레스 탐지 |
 
 ---
 
