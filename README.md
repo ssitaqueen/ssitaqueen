@@ -1,5 +1,14 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ssitaqueen.ssitaqueen)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ssitaqueen/ssitaqueen/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ssitaqueen/ssitaqueen/output/github-contribution-grid-snake.svg"
+  />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ssitaqueen/ssitaqueen/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <h2 align="center">안녕하세요, 윤선재입니다 🧠</h2>
 
